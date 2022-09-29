@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.620b6c4e.chunk.css",
+    "main.js": "/static/js/main.48647e2b.chunk.js",
+    "main.js.map": "/static/js/main.48647e2b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7239ae24.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7239ae24.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.b09f38ae.chunk.js": "/static/js/2.b09f38ae.chunk.js",
+    "static/js/2.b09f38ae.chunk.js.map": "/static/js/2.b09f38ae.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.620b6c4e.chunk.css.map": "/static/css/main.620b6c4e.chunk.css.map",
+    "static/js/2.b09f38ae.chunk.js.LICENSE.txt": "/static/js/2.b09f38ae.chunk.js.LICENSE.txt",
+    "static/media/emma-garcia.3614fb8e.jpg": "/static/media/emma-garcia.3614fb8e.jpg",
+    "static/media/empowerplant-logo.b5e8a88c.svg": "/static/media/empowerplant-logo.b5e8a88c.svg",
+    "static/media/jane-schmidt.734606c2.jpg": "/static/media/jane-schmidt.734606c2.jpg",
+    "static/media/keith-ryan.b774fbfc.jpg": "/static/media/keith-ryan.b774fbfc.jpg",
+    "static/media/lily-chan.ddde8aa2.jpg": "/static/media/lily-chan.ddde8aa2.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/mason-kim.83e39bb8.jpg": "/static/media/mason-kim.83e39bb8.jpg",
+    "static/media/mood-planter-cropped.65be8f37.jpg": "/static/media/mood-planter-cropped.65be8f37.jpg",
+    "static/media/mood-planter.dce586b7.jpg": "/static/media/mood-planter.dce586b7.jpg",
+    "static/media/noah-miller.95b41869.jpg": "/static/media/noah-miller.95b41869.jpg",
+    "static/media/nodes-cropped.9b0a179e.jpg": "/static/media/nodes-cropped.9b0a179e.jpg",
+    "static/media/nodes.4e1e3fbb.png": "/static/media/nodes.4e1e3fbb.png",
+    "static/media/plant-spider-cropped.62d42358.jpg": "/static/media/plant-spider-cropped.62d42358.jpg",
+    "static/media/plant-spider.54e5a2ef.jpg": "/static/media/plant-spider.54e5a2ef.jpg",
+    "static/media/plant-to-text-cropped.9a5a2002.jpg": "/static/media/plant-to-text-cropped.9a5a2002.jpg",
+    "static/media/plant-to-text.17eae3e4.jpg": "/static/media/plant-to-text.17eae3e4.jpg",
+    "static/media/plants-background-img.5d7994c4.jpg": "/static/media/plants-background-img.5d7994c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7239ae24.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.b09f38ae.chunk.js",
+    "static/css/main.620b6c4e.chunk.css",
+    "static/js/main.48647e2b.chunk.js"
+  ]
+}
